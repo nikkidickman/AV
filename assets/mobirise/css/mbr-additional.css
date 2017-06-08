@@ -1,31 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
-
-#header1-8 H1 {
-  font-size: 80px;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#header1-8 SPAN {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box3-e .mbr-header .mbr-header__text {
-  text-align: center;
-  font-size: 36px;
-  color: #efefef;
-}
-#msg-box3-e .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-e .mbr-article P {
-  color: #efefef;
-  font-size: 20px;
-}
 #slider-5 H1 {
-  font-size: 72px;
+  font-size: 60px;
   text-align: left;
   font-family: 'Oxygen', sans-serif;
   color: #efefef;
@@ -35,13 +13,9 @@
   font-family: 'Oxygen', sans-serif;
   color: #efefef;
 }
-#msg-box1-d .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 72px;
-  text-align: right;
-}
-#msg-box1-d .mbr-article {
-  color: #fff;
+#slider-5 DIV {
+  font-size: 46px;
+  font-family: 'Oxygen', sans-serif;
 }
 #form1-b .mbr-header__text {
   color: #ffffff;
@@ -63,5 +37,38 @@
   background: #2c2c2c;
 }
 #menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-k P {
+  text-align: left;
+}
+#menu-j .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content5-q .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+}
+#content5-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-q .mbr-article {
+  color: #fff;
+}
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-m .mbr-navbar__hamburger {
   color: #ffffff;
 }
