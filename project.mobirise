@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AV",
-    "currentPage": "AV.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -513,7 +513,7 @@
             "showButtons": false,
             "showArrow": false
           },
-          "title": "<br><span style=\"color: inherit; font-family: inherit;\">About Us</span><br>",
+          "title": "<span style=\"color: inherit; font-family: inherit;\"><br></span><span style=\"color: inherit; font-family: inherit;\">About Us</span><br>",
           "text": "Audience Ventures is a leading early stage “venture data” technology investor in NYC. Through its data as currency investments, AV is a powerful partner for early stage venture firms and companies moving from angel to institutional investors.<br><br>Start-ups and established companies that can identify their best customer profiles and develop a model to acquire, retain and increase the life time value of a customer have higher valuation outcomes.   Audience Ventures helps make that happen.<br><br>With our extensive network in the entrepreneur ecosystem, we identify smart and dedicated entrepreneurs who are adapting to changing markets, disrupting established business models, and creating products that matter. If they only had a partner with access to consumer data on over 300MM US consumers and a path to secure their initial customer base, they can prove their model.  Audience Ventures is that partner.<br><br>We invest at an early stage in promising technology companies and at a later stage to jump start stagnant consumer companies that became successful before big data was cost effective and are ready to jump start their growth. We add value to our portfolio companies by taking an active role in business development, marketing, &amp; customer acquisition execution in addition to the data and media needed to do it.<br><br>Leveraging our partners’ strategic experience and extensive media and technology industry connections, we provide our portfolio companies the resources they need to build great businesses.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         },
